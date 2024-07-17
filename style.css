@@ -1,0 +1,72 @@
+*
+{
+    margin:0;
+    padding:0;
+
+}
+h2 a
+{
+    margin-left :35%;
+    margin-right: 40%;
+    
+    color: hsl(120, 89%, 45%);
+    
+
+    
+
+}
+table
+{
+    border:3px solid white;
+    border-collapse: collapse;
+    padding:30%, 30%;
+    width:500px;
+    height:fit-content;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.n1
+{
+    background-color:hsla(204, 90%, 27%, 0.911);
+    color:white;
+    
+}
+.n2{
+    background-color:rgb(141, 59, 59) ;
+    color:white;
+
+}
+.n3{
+    background-color: aqua;
+}
+.n4{
+    background-color: blue;
+    color:white;
+}
+.n5{
+    background-color: #0c290c;
+    color:white;
+}
+.n6
+{
+    background-color:rgb(49, 12, 12);
+    color:white;
+}
+.n7
+{
+  background-color:orange ;
+  color:white;
+
+}
+.n8{
+    background-color: blue;
+    color: white;
+}
+.n9
+{
+    background-color: pink;
+    color:white ;
+}
+body{
+    background: linear-gradient(90deg,#ff0000 0%, #00ff00 80%);
+}
